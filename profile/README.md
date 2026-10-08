@@ -2,8 +2,6 @@
 
 > **A calm workspace for everyday math: keep a running Calcbot history, switch to the Calcbot converter, and let the Calcbot calculator handle the rest.**
 
-![Calcbot](FOTO)
-
 ---
 
 ## About Calcbot
